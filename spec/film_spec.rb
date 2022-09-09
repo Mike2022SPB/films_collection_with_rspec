@@ -1,3 +1,5 @@
+require "rspec"
+
 require "film"
 
 describe Film do
