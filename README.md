@@ -10,5 +10,4 @@ Installation:
 
 To start the programm: 
 1. In the command line in the folder with the main.rb file, type: <code>ruby main.rb</code>;
-2. Double-click on the specified file;
-3. Enjoy.
+2. Enjoy.
